@@ -1,2 +1,7 @@
-# My-Repo
-student management for the development of their coding skills
+
+#include<iostream>
+using namespace std;
+ int main() {
+cout<<"hello world" ;
+return 0;
+}
