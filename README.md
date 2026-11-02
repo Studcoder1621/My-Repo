@@ -17,3 +17,8 @@ cout<<i*j;
 cout<<"\n";
 return 0;
 }
+int length=6,width=4,area=0;
+area=length *width;
+cout<<"area=" <<area;
+return 0;
+}
